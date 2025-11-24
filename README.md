@@ -96,15 +96,7 @@ Includes:
 These help verify overfitting or convergence behavior.
 
 # 🖥 Running the Project
-1. Clone this repository
-git clone https://github.com/your-username/brain-tumor-detection-xai.git
-cd brain-tumor-detection-xai
-
-
-2. Open the Colab Notebook
-
-Upload the notebook or click:
-(your own link once you add it)
+1. Open the Colab Notebook & Upload the notebook 
 
 
 3. Upload the Kaggle Dataset to Colab
@@ -130,7 +122,7 @@ The notebook will:
 - Preprocess images
 - Train CNN
 - Plot metrics
-- Generate XAI visualizations
+- Generate XAI visualisations
 
 
 # 🧪 Example Outputs Included
